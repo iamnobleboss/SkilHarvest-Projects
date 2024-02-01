@@ -46,7 +46,7 @@ This is where we include some basic code or queries or even some of the DAX expr
 ```
 SQL
 
-![](image_1701758001085.jpg)
+![](delivery.jpg)
 
 SELECT *
 FROM Table 1

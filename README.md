@@ -6,6 +6,10 @@
 
 [Data Sources](#data-sources)
 
+[Data Analysis](#data-analysis)
+
+[Result/Findings](#result-finding)
+
 💻 
 
 😙
@@ -55,7 +59,7 @@ WHERE A, B, C = Positive Integers
 |Data 1| Data 2| Data 3|
 |Name| Number| Address|
 
-## Result/Finding
+## Result/Findings
 
 
 ## Recommendation

@@ -21,6 +21,8 @@ This is where we include some basic code or queries or even some of the DAX expr
 ```
 SQL
 
+![IMAGE.jpg](image_1701758001085)
+
 SELECT *
 FROM Table 1
 WHERE A, B, C = Positive Integers

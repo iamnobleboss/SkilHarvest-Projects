@@ -48,6 +48,8 @@ SQL
 
 ![](delivery.jpg)
 
+![Office work](https://github.com/iamnobleboss/SkilHarvest-Projects/assets/117282094/a4a3a797-6d2b-49f5-9331-604114b714cb)
+
 SELECT *
 FROM Table 1
 WHERE A, B, C = Positive Integers

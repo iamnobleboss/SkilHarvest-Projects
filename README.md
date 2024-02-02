@@ -46,7 +46,7 @@ This is where we include some basic code or queries or even some of the DAX expr
 ```
 SQL
 
-![](delivery.jpg)
+![Delivery](delivery.jpg)
 
 ![Office work](https://github.com/iamnobleboss/SkilHarvest-Projects/assets/117282094/a4a3a797-6d2b-49f5-9331-604114b714cb)
 
